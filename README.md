@@ -1,3 +1,13 @@
+## 🤝 Colaboradores y Créditos
+
+Este proyecto fue desarrollado en equipo para el sistema de **INNOVATEC**.
+
+* **Desarrollador / Colaborador:** Walter Guevara ([@Codeby-Davi](https://github.com/Codeby-Davi))
+* **Desarrollador / Colaborador:** Jostin Davalos([@HellomynameisJJ](https://github.com/HellomynameisJJ))
+* **Desarrollador / Colaborador:** Jhossep Cueto ([@Jhoss856](https://github.com/Jhoss856))
+* **Desarrollador / Colaborador:** Leyner Fonseca ([@HellomynameisJJ](https://github.com/HellomynameisJJ))
+* **Desarrollador / Colaborador:** Andrea Ramirez ([@AndreaAlbornoz12](https://github.com/AndreaAlbornoz12))
+  
 # 🛒 Sistema de Ventas MiniMarket
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
